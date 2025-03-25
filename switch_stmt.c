@@ -20,4 +20,23 @@ int main() {
         case 1:
             printf("You selected Option 1.\n");
             break;
+         case 2:
+            printf("You selected Option 2.\n");
+            break;
+        case 3:
+            printf("You selected Option 3.\n");
+            break;
+        case 4:
+            printf("You selected Option 4.\n");
+            break;
+        case 5:
+            printf("You selected Option 5.\n");
+            break;
+        default:
+            printf("Invalid choice! Please select a number between 1 and 5.\n");
+            break;
+    }
+
+    return 0;
+}
 
