@@ -20,4 +20,12 @@ int main() {
         case 1:
             printf("You selected Option 1.\n");
             break;
+        case 2:
+            printf("You selected Option 2.\n");
+            break;
+        case 3:
+            printf("You selected Option 3.\n");
+            break;
+
+	
 
